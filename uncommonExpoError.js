@@ -1,0 +1,1 @@
+This error typically occurs when you try to use a feature or module that isn't properly configured or isn't supported in your current Expo environment. For example, using a native module that hasn't been correctly linked, or using a feature that needs a specific Expo SDK version.
